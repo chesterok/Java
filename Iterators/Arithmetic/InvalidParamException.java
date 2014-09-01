@@ -1,0 +1,1 @@
+public class InvalidParamException extends Exception {}

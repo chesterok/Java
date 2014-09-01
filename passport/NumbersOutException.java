@@ -1,0 +1,1 @@
+public class NumbersOutException extends Exception {}

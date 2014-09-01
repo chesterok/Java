@@ -1,0 +1,1 @@
+public class InvalidFirstException extends Exception {}
